@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "96220492260",
+    "project_id": "keep-clone-000",
+    "storage_bucket": "keep-clone-000.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96220492260:android:4d563d8842e685f13457f1",
+        "android_client_info": {
+          "package_name": "com.plutoapps.keep_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96220492260-5taclmp8te94d6ipcp7q5v25t83i3gt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzU0LneKiI9LQNxazxsa5LCTE6NsRVeDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96220492260-5taclmp8te94d6ipcp7q5v25t83i3gt5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "96220492260-iiv5h8stfshn1mpr3l8utfu8sd31t07k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.plutoapps.keepClone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

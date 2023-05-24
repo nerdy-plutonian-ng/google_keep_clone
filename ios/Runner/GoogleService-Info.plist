@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>96220492260-iiv5h8stfshn1mpr3l8utfu8sd31t07k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.96220492260-iiv5h8stfshn1mpr3l8utfu8sd31t07k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAZ1Wv4hX46IhxLfXWPtWzh8_yY-mz_aOI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>96220492260</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.plutoapps.keepClone</string>
+	<key>PROJECT_ID</key>
+	<string>keep-clone-000</string>
+	<key>STORAGE_BUCKET</key>
+	<string>keep-clone-000.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:96220492260:ios:402119b4d7643f193457f1</string>
+</dict>
+</plist>
